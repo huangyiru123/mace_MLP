@@ -1,4 +1,4 @@
-# mace_MLP
+# mace_MLP_dataset-split
 1.parameters/code/prediction
 
 2.MLP-split-dataset (1).ipynb：for train/test/validation dateset split, but sometimes you need to guarantee all test/validation dataset keep same for comparation.
