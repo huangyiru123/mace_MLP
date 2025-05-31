@@ -7,3 +7,5 @@
 
 4.predict.ipynb:Langevin （NVT/NPT/NVE is alternative）MD, after trainning, you can predict and conduct by mace_model， 
 They are all need gpu
+
+5.mace训练.ipynb:mace train in jupyter lab
